@@ -1,0 +1,25 @@
+To use menus:-
+
+1, Go to the "Data" menu and click on "Load" submenu.
+
+2, Click on the menu/submenu you want to use.
+
+3, Follow instructions under the code if present.
+
+4,  Go to the "Data" menu again and click on "List" to see the result.
+
+____________________________________________________________________________________
+
+General Instruction:-
+
+1, Click on one of the movie catagory buttons to view list of movies.
+
+2, Click on the button of a a movie to view more about it.
+
+3, Click on "RENT" if you want to rent the movie.
+
+4, Find your receipt under the code.
+
+5, Use the "Back" menu if you want to go back at any moment.
+
+6, Use the "Exit" menu if you want to exit at any moment.
